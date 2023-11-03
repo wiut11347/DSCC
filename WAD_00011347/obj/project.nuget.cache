@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yPrjtkAL4yL163tAZKhQxWwozamX8BXZYJhYFACBBUMi/Nt8KLx0ZI3AwsrqGs1hCTCZ02A3BM39rX8ok+Urtw==",
+  "dgSpecHash": "170yXr5Ay/gsEkvomNdvSmf0zY7st8SasfE7q9pmZwYU+69vdE9MkEKvUm305YFYuC6/ZvmE+DodO1oUAAR6vA==",
   "success": true,
   "projectFilePath": "C:\\Users\\abror\\OneDrive\\Desktop\\DSCC_API\\WAD_00011347\\WAD_00011347.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\abror\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\abror\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\abror\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\abror\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\abror\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\abror\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\abror\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
