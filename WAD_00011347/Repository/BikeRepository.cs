@@ -31,8 +31,7 @@ namespace WAD_00011347.Repository
         }
         public void InsertBike(Bike Bike)
         {
-            Bike.Category =
-           _dbContext.BikeCategories.Find(Bike.Category.ID);
+            Bike.Category = _dbContext.BikeCategories.Find(Bike.Category.ID);
             _dbContext.Add(Bike);
             Save();
         }
