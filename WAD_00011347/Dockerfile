@@ -13,7 +13,7 @@ COPY . .
 RUN dotnet build "WAD_00011347.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "WAD_00011347.csproj" -c Release -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "WAD_00011347.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
